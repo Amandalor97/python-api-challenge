@@ -1,5 +1,7 @@
 # Adding config.py file.
 api_keys.py
+weather_api_key
+geoapify_key
 #api key files
 config.py
 # Byte-compiled / optimized / DLL files
